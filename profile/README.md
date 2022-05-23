@@ -1,10 +1,10 @@
 #### Repositories
 
-- [verifiable-data](https://github.com/transmute-industries/verifiable-data)
-- [did-key.js](https://github.com/transmute-industries/did-key.js)
 - [sidetree.js](https://github.com/transmute-industries/sidetree.js)
-- [universal-wallet](https://github.com/transmute-industries/universal-wallet)
+- [verifiable-data](https://github.com/transmute-industries/verifiable-data)
 - [did actor api](https://github.com/transmute-industries/api.did.actor)
+- [did-key.js](https://github.com/transmute-industries/did-key.js)
+- [universal-wallet](https://github.com/transmute-industries/universal-wallet)
 
 ### Standards
 
