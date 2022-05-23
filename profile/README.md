@@ -19,6 +19,9 @@
 
 - [W3C CCG did:key method spec](https://github.com/w3c-ccg/did-method-key)
 - [W3C CCG did:web method spec](https://github.com/w3c-ccg/did-method-web)
+- [W3C CCG DID Core](https://www.w3.org/TR/did-core/)
+- [W3C CCG DID Specification Registries](https://w3c.github.io/did-spec-registries)
+- [W3C CCG Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 - [W3C CCG Verifiable Credentials API](https://github.com/w3c-ccg/vc-api)
 - [W3C CCG Traceability Vocabulary](https://w3id.org/traceability)
 - [W3C CCG Traceability Interoperability Profile](https://w3id.org/traceability/interoperability)
