@@ -14,6 +14,7 @@
 - [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517)
 - [Bitcoin Improvement Protocol 39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 - [Bitcoin Improvement Protocol 44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+- [JSON-LD](https://www.w3.org/TR/json-ld11/)
 
 ### Community Drafts
 
