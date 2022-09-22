@@ -5,6 +5,7 @@
 - [did actor api](https://github.com/transmute-industries/api.did.actor)
 - [did-key.js](https://github.com/transmute-industries/did-key.js)
 - [universal-wallet](https://github.com/transmute-industries/universal-wallet)
+- [did EQT - SCITT Architecture Components](https://github.com/transmute-industries/did-eqt) 
 
 ### Standards
 
