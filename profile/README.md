@@ -29,4 +29,8 @@
 - [W3C CCG Traceability Vocabulary](https://w3id.org/traceability)
 - [W3C CCG Traceability Interoperability Profile](https://w3id.org/traceability/interoperability)
 
+## About Transmute
+
+Transmute is a US-based technology company that uses next-generation identity and credentialing technologies. We provide comprehensive solution design and software to define, and share verifiable data at scale.
+
 #### Made with ❤️ in Austin TX
