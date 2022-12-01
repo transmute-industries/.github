@@ -1,5 +1,8 @@
 ![Transmute Industries Github Banner](https://user-images.githubusercontent.com/86194145/200251160-9674b209-60e6-4df7-acc6-7186becbad9b.png)
 
+## About Transmute
+
+Transmute is a US-based technology company that uses next-generation identity and credentialing technologies. We provide comprehensive solution design and software to define, and share verifiable data at scale.
 
 #### Repositories
 
@@ -28,9 +31,5 @@
 - [W3C CCG Verifiable Credentials API](https://github.com/w3c-ccg/vc-api)
 - [W3C CCG Traceability Vocabulary](https://w3id.org/traceability)
 - [W3C CCG Traceability Interoperability Profile](https://w3id.org/traceability/interoperability)
-
-## About Transmute
-
-Transmute is a US-based technology company that uses next-generation identity and credentialing technologies. We provide comprehensive solution design and software to define, and share verifiable data at scale.
 
 #### Made with ❤️ in Austin TX
